@@ -1,0 +1,14 @@
+#git提交时忽略的文件 设置#
+# Maven #
+target/
+
+# IDEA #
+.idea/
+*.iml
+
+# Eclipse #
+.settings/
+.metadata/
+.classpath
+.project
+Servers/
